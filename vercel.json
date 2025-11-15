@@ -1,0 +1,6 @@
+{
+  "rewrites": [
+    { "source": "/ip", "destination": "/api/ip" },
+    { "source": "/port", "destination": "/api/port" }
+  ]
+}
